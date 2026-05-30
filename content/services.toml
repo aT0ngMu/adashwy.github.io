@@ -3,7 +3,11 @@ title = "Services"
 description = "Professional services and community involvement."
 
 [[items]]
-title = "Reviewer"
-subtitle = "Journal Name"
-date = "2024"
-content = "Reviewed papers for..."
+title = "External Reviewer"
+subtitle = "USENIX Security Symposium (USENIX Security)"
+date = "2025"
+
+[[items]]
+title = "External Reviewer"
+subtitle = "ACM Conference on Computer and Communications Security (CCS) "
+date = "2025"

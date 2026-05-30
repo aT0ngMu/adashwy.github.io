@@ -1,5 +1,3 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+I am a second-year PhD student at [University of Delaware](https://www.udel.edu/), advised by [Prof. Gao Xing](https://xgao-work.github.io/).
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
-
-My current research focuses on investigating the mathematical principles of natural philosophy.
+Before joining University of Delaware,  I obtained my Master’s degree from the Ocean University of China. I worked at [QI-ANXIN Technology Research Institute](https://research.qianxin.com/) for three years. My research interests include software supply chain security and Fuzzing.

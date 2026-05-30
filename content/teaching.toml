@@ -2,9 +2,15 @@ type = "card"
 title = "Teaching"
 description = "Courses I have taught or assisted with."
 
+
+
 [[items]]
-title = "Example Course"
+title = "CISC260-010: Machine Organization and Assembly Language"
 subtitle = "Teaching Assistant"
-date = "2024"
-content = "Description of the course and responsibilities. Content of this course can be found [here](https://example.com)."
-tags = ["Undergraduate", "CS"]
+date = "Fall 2025 & Spring 2026"
+
+[[items]]
+title = "CISC469-010: Computer Security Principles and Practice"
+subtitle = "Teaching Assistant"
+date = "Fall 2025"
+

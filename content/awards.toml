@@ -3,25 +3,26 @@ title = "Awards"
 description = "Honors and awards I have received."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2025"
-content = "Description of the award."
+title = "National Third Prize in the National College Student Mobile Application Innovation Development Competition"
+date = "2017"
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2024"
-content = "Description of the award."
+title = "Third Prize in the Shandong Province Science and Technology Festival Cybersecurity Competition"
+date = "2018"
+
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2023"
-content = "Description of the award."
+title = "Second Prize in the Shandong Province Cyberspace Attack and Defense Competition"
+date = "2018"
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2022"
-content = "Description of the award."
+title = "Second Prize in the Shandong Province University Students Cybersecurity Skills Competition"
+date = "2018"
+
+[[items]]
+title = "Shandong University of Traditional Chinese Medicine Science and Technology Competition Scholarship"
+date = "2018"
+
+[[items]]
+title = "Third Prize Scholarship, Shandong University of Traditional Chinese Medicine"
+date = "2018"
